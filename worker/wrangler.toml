@@ -1,0 +1,8 @@
+name = "x4-inbox"
+main = "src/index.js"
+compatibility_date = "2026-09-16"
+
+[vars]
+GITHUB_OWNER = "robinpm"
+GITHUB_REPO = "x4-inbox"
+GITHUB_BRANCH = "main"
