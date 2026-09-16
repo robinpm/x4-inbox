@@ -3,12 +3,10 @@
       xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>https://github.com/robinpm/x4-inbox</id>
   <title>x4-inbox</title>
-  <updated>2026-09-16T03:30:00Z</updated>
+  <updated>2026-09-16T03:30:41Z</updated>
   <author>
     <name>robinpm</name>
   </author>
-  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition"
-        href="https://raw.githubusercontent.com/robinpm/x4-inbox/main/opds.xml"/>
-  <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=acquisition"
-        href="https://raw.githubusercontent.com/robinpm/x4-inbox/main/opds.xml"/>
+  <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://raw.githubusercontent.com/robinpm/x4-inbox/main/opds.xml"/>
+  <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://raw.githubusercontent.com/robinpm/x4-inbox/main/opds.xml"/>
 </feed>
